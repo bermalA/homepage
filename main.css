@@ -1,0 +1,38 @@
+#homediv1
+{
+    width: 30%;
+    margin-left: 100px;
+}
+#homediv2
+{
+    margin-left: 45px;
+}
+#prg1
+{
+    margin-left: 95px;
+    font-size:4ch;
+    font-family:serif;
+}
+#tanıtım
+{
+    font-size: 6ch;
+}
+.sabitleme
+{
+    position:fixed; top:0px; left:0px; right:0px
+}
+.hovernavbar
+{
+    font-size: larger; font-weight: bold; font-family: serif;
+    box-shadow: inset 0 0 0 0 #ffffff;
+    color: #000000;
+    margin: 0 -.12rem;
+    padding: 0 .12rem;
+    transition: color .8s ease-in-out, box-shadow .8s ease-in-out;
+}
+.hovernavbar:hover
+{
+    box-shadow: inset 100px 0 0 0 #000000;
+    color: white;
+}
+
